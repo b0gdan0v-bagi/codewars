@@ -92,7 +92,9 @@ int last_digit(std::list<int> array) {
 // Driver program to test above functions 
 int main()
 {
-    
+    /*
+    https://www.codewars.com/kata/5518a860a73e708c0a000027/train/cpp
+    */
     std::cout << last_digit_pair("6","21") << "\n";
     //std::cout << last_digit({1533}) << "\n";
     std::cout << last_digit({ 7,6,21 }) << "\n";
